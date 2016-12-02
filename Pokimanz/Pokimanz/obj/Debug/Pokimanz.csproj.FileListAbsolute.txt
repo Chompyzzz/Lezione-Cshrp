@@ -1,0 +1,8 @@
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\bin\Debug\Pokimanz.exe.config
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\bin\Debug\Pokimanz.exe
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\bin\Debug\Pokimanz.pdb
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\obj\Debug\Pokimanz.csprojResolveAssemblyReference.cache
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\obj\Debug\Pokimanz.Properties.Resources.resources
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\obj\Debug\Pokimanz.csproj.GenerateResource.Cache
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\obj\Debug\Pokimanz.exe
+c:\users\3f07\documents\visual studio 2015\Projects\Pokimanz\Pokimanz\obj\Debug\Pokimanz.pdb
