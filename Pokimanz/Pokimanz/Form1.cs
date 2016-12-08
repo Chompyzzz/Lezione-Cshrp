@@ -19,11 +19,15 @@ namespace Pokimanz
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Monster strongbonna = new Monster("Strongbonna", 10, 50);
-            Monster charmender = new Monster("Charmender", 56, 10);
-            strongbonna.attack(charmender);
-            strongbonna.attack(charmender);
-            strongbonna.attack(charmender);
+            Monster exeggutor  = new Monster("Exeggutor", 167, 47);
+            Monster palmer = new Monster("Palmer", 113, 34, 25);
+            exeggutor.attack(palmer);
+            palmer.attack(exeggutor);
+            exeggutor.attack(palmer);
+            palmer.heal();
+            palmer.heal();
+            exeggutor.attack(palmer);
+            exeggutor.attack(palmer);
         }
     }
 }
