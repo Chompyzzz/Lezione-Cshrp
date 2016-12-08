@@ -1,2 +1,2 @@
 # Lezione-Cshrp
-Contiene i file delle lezioni su C#
+Programma basato sul sistema di combattimento tra mostri/pokemon
